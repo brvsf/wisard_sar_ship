@@ -1,0 +1,8 @@
+kagglehub==1.0.2
+matplotlib==3.10.9
+matplotlib-inline==0.2.2
+numpy==2.2.6
+pandas==2.3.3
+pillow==12.3.0
+scikit-learn==1.7.2
+wisardpkg==1.6.3
